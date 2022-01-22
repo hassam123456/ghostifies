@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889765799663",
+    "project_id": "ghostwalas",
+    "storage_bucket": "ghostwalas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889765799663:android:fd08e99e07ab5ff322dd1a",
+        "android_client_info": {
+          "package_name": "com.example.ghosties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889765799663-enptgeiftpaskgi7cie48853pta8hhbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXodHvH2HVudQ2rwxXB66wrCOrG6tqaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889765799663-enptgeiftpaskgi7cie48853pta8hhbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
